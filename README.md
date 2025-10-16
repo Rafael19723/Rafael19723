@@ -2,10 +2,11 @@
 
 **`Desenvolvedor`**
 
-Hello! My name is Rafael Silva Rangel de Almeida, i'm 19 years old and natural from Bahia. I'm currently studying Computer Science at UNIFACS. I've always been interested in technology, and there's nothing better than working with something you love.
+Hello, my name is Rafael Silva Rangel de Almeida, i'm 19 years old and natural from Salvador-Bahia/Brazil. I'm currently studying Computer Science at UNIFACS. I've always been interested in technology, and there's nothing better than working with something you love.
+
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 
 <img 
@@ -85,7 +86,7 @@ Hello! My name is Rafael Silva Rangel de Almeida, i'm 19 years old and natural f
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 
 <img 
