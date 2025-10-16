@@ -4,7 +4,7 @@
 
 Hello, my name is Rafael Silva Rangel de Almeida, i'm 19 years old and natural from Salvador-Bahia/Brazil. I'm currently studying Computer Science at UNIFACS. I've always been interested in technology, and there's nothing better than working with something you love.
 
-this account is a extension of my original profile, who is in portuguese: https://github.com/Rafael19722
+this account is an extension of my original profile, who is in portuguese: https://github.com/Rafael19722
 
 ---
 
