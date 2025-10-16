@@ -1,6 +1,6 @@
 # 👨‍💻 Rafael Rangel
 
-**`Desenvolvedor`**
+**`Developer`**
 
 Hello, my name is Rafael Silva Rangel de Almeida. I'm 19 years old and originally from Salvador, Bahia, Brazil. I'm currently studying Computer Science at UNIFACS. I've always been interested in technology, and there's nothing better than working with something you love.
 
