@@ -2,8 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Rafael Silva Rangel de Almeida, tenho 19 anos e sou natural da Bahia. Atualmente estou cursando Ciência da Computação na UNIFACS. Sempre me interessei por tecnologia e nada melhor do que trabalhar com o que gosta.
-
+Hello! My name is Rafael Silva Rangel de Almeida, i'm 19 years old and natural from Bahia. I'm currently studying Computer Science at UNIFACS. I've always been interested in technology, and there's nothing better than working with something you love.
 ---
 
 ### 🤖 Linguagens e Tecnologias
